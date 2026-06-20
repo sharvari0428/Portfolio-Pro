@@ -25,6 +25,8 @@
 
 <h2 class="logo">Sharvari.</h2>
 
+<button id="themeBtn">🌙</button>
+
 <ul>
 
 <li><a href="#home">Home</a></li>
