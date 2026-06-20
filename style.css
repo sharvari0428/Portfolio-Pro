@@ -317,3 +317,46 @@ section h2::after{
     opacity:1;
     transform:translateY(0);
 }
+#themeBtn{
+
+margin:0;
+
+padding:10px 18px;
+
+font-size:20px;
+
+border-radius:50%;
+
+cursor:pointer;
+
+}
+
+.light{
+
+background:#f8fafc;
+
+color:#111827;
+
+}
+
+.light .card,
+.light .project,
+.light .skill{
+
+background:white;
+
+color:#111827;
+
+}
+
+.light header{
+
+background:white;
+
+}
+
+.light nav a{
+
+color:#111827;
+
+}
