@@ -1,3 +1,5 @@
+// Typing Effect
+
 const text = "Aspiring Web Developer";
 
 let i = 0;
@@ -18,6 +20,8 @@ setTimeout(typing,100);
 
 typing();
 
+// Navbar Scroll
+
 window.addEventListener("scroll",function(){
 
 const header=document.querySelector("header");
@@ -26,12 +30,28 @@ if(window.scrollY>50){
 
 header.style.background="#0f172a";
 
-}
-
-else{
+}else{
 
 header.style.background="#111827";
 
 }
 
 });
+
+// Scroll Animation
+
+const observer = new IntersectionObserver(entries=>{
+
+entries.forEach(entry=>{
+
+if(entry.isIntersecting){
+
+entry.target.classList.add("show");
+
+}
+
+});
+
+});
+
+document.querySelectorAll(".hidden").forEach(el=>observer.observe(el));
