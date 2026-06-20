@@ -55,3 +55,20 @@ entry.target.classList.add("show");
 });
 
 document.querySelectorAll(".hidden").forEach(el=>observer.observe(el));
+const btn=document.getElementById("themeBtn");
+
+btn.onclick=function(){
+
+document.body.classList.toggle("light");
+
+if(document.body.classList.contains("light")){
+
+btn.innerHTML="🌞";
+
+}else{
+
+btn.innerHTML="🌙";
+
+}
+
+}
