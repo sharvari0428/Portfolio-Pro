@@ -72,7 +72,7 @@ using HTML, CSS and JavaScript.
 
 </section>
 
-<section id="about">
+<section id="about" class="hidden">
 
 <h2>About Me</h2>
 
@@ -90,7 +90,7 @@ I enjoy learning new technologies and creating useful websites that solve real-l
 
 </section>
 
-<section id="skills">
+<section id="skills" class="hidden">
 
 <h2>Skills</h2>
 
@@ -112,7 +112,7 @@ I enjoy learning new technologies and creating useful websites that solve real-l
 
 </section>
 
-<section id="projects">
+<section id="projects" class="hidden">
 
 <h2>Projects</h2>
 
@@ -159,7 +159,7 @@ Split expenses among friends quickly.
 
 </section>
 
-<section id="contact">
+<section id="contact" class="hidden">
 
 <h2>Contact Me</h2>
 
