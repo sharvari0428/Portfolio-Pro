@@ -377,3 +377,13 @@ border-radius:50%;
 font-size:20px;
 
 }
+.project img{
+    width:100%;
+    border-radius:12px;
+    margin-bottom:20px;
+    transition:.4s;
+}
+
+.project img:hover{
+    transform:scale(1.03);
+}
