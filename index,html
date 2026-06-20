@@ -113,7 +113,39 @@ I enjoy learning new technologies and creating useful websites that solve real-l
 </div>
 
 </section>
+<section class="hidden">
 
+<h2>My Journey</h2>
+
+<div class="skills">
+
+<div class="skill">
+
+<h1>4+</h1>
+
+<p>Projects</p>
+
+</div>
+
+<div class="skill">
+
+<h1>6+</h1>
+
+<p>Skills</p>
+
+</div>
+
+<div class="skill">
+
+<h1>100%</h1>
+
+<p>Dedication</p>
+
+</div>
+
+</div>
+
+</section>
 <section id="projects" class="hidden">
 
 <h2>Projects</h2>
@@ -198,10 +230,22 @@ Split expenses among friends quickly.
 
 <footer>
 
-<p>© 2026 Sharvari Dhende</p>
+<h2>Sharvari Dhende</h2>
+
+<p>
+
+Thanks for visiting my portfolio 💙
+
+</p>
+
+<p>
+
+Made with ❤️ using HTML, CSS & JavaScript
+
+</p>
 
 </footer>
-
+<button id="topBtn">⬆</button>
 </body>
 
 </html>
