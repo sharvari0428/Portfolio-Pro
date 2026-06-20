@@ -1,1 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+<title>Sharvari Dhende | Portfolio</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="script.js" defer></script>
+
+</head>
+
+<body>
+
+<header>
+
+<nav>
+
+<h2 class="logo">Sharvari.</h2>
+
+<ul>
+
+<li><a href="#home">Home</a></li>
+
+<li><a href="#about">About</a></li>
+
+<li><a href="#skills">Skills</a></li>
+
+<li><a href="#projects">Projects</a></li>
+
+<li><a href="#contact">Contact</a></li>
+
+</ul>
+
+</nav>
+
+</header>
+
+<section class="hero" id="home">
+
+<div class="hero-text">
+
+<h1>Hello, I'm</h1>
+
+<h2>Sharvari Dhende</h2>
+
+<h3>Aspiring Web Developer</h3>
+
+<p>
+I build clean, responsive and interactive websites
+using HTML, CSS and JavaScript.
+</p>
+
+<a href="#projects">
+<button>View My Work</button>
+</a>
+
+</div>
+
+<div class="hero-image">
+
+<img src="IMG-20260527-WA0014.jpg" alt="Sharvari">
+
+</div>
+
+</section>
+
+<section id="about">
+
+<h2>About Me</h2>
+
+<div class="card">
+
+<p>
+
+I am a Computer Science student passionate about web development.
+
+I enjoy learning new technologies and creating useful websites that solve real-life problems.
+
+</p>
+
+</div>
+
+</section>
+
+<section id="skills">
+
+<h2>Skills</h2>
+
+<div class="skills">
+
+<div class="skill">HTML</div>
+
+<div class="skill">CSS</div>
+
+<div class="skill">JavaScript</div>
+
+<div class="skill">Python</div>
+
+<div class="skill">GitHub</div>
+
+<div class="skill">Responsive Design</div>
+
+</div>
+
+</section>
+
+<section id="projects">
+
+<h2>Projects</h2>
+
+<div class="projects">
+
+<div class="project">
+
+<h3>🎓 Student Dashboard</h3>
+
+<p>
+
+Track attendance, assignments,
+exam countdown and CGPA.
+
+</p>
+
+<a href="https://sharvari0428.github.io/Student-Dashboard/" target="_blank">
+
+<button>Live Demo</button>
+
+</a>
+
+</div>
+
+<div class="project">
+
+<h3>💰 Expense Split Calculator</h3>
+
+<p>
+
+Split expenses among friends quickly.
+
+</p>
+
+<a href="https://sharvari0428.github.io/Expense-Split-Calculator/" target="_blank">
+
+<button>Live Demo</button>
+
+</a>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="contact">
+
+<h2>Contact</h2>
+
+<p>Email : sharvaridhende06@gmail.com</p>
+
+<p>GitHub : github.com/sharvari0428</p>
+
+<p>LinkedIn : linkedin.com/in/sharvari-dhende-2183a4415</p>
+
+</section>
+
+<footer>
+
+<p>© 2026 Sharvari Dhende</p>
+
+</footer>
+
+</body>
+
+</html>
