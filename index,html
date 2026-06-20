@@ -161,13 +161,36 @@ Split expenses among friends quickly.
 
 <section id="contact">
 
-<h2>Contact</h2>
+<h2>Contact Me</h2>
 
-<p>Email : sharvaridhende06@gmail.com</p>
+<div class="projects">
 
-<p>GitHub : github.com/sharvari0428</p>
+<div class="project">
+<h3>📧 Email</h3>
 
-<p>LinkedIn : linkedin.com/in/sharvari-dhende-2183a4415</p>
+<a href="mailto:sharvaridhende06@gmail.com">
+<button>Send Email</button>
+</a>
+
+</div>
+
+<div class="project">
+<h3>💻 GitHub</h3>
+
+<a href="https://github.com/sharvari0428" target="_blank">
+<button>Visit GitHub</button>
+</a>
+
+</div>
+
+<div class="project">
+<h3>💼 LinkedIn</h3>
+
+<a href="https://www.linkedin.com/in/sharvari-dhende-2183a4415" target="_blank">
+<button>Visit LinkedIn</button>
+</a>
+
+</div>
 
 </section>
 
