@@ -7,7 +7,7 @@
 <title>Sharvari Dhende | Portfolio</title>
 
 <link rel="stylesheet" href="style.css">
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
@@ -98,17 +98,17 @@ I enjoy learning new technologies and creating useful websites that solve real-l
 
 <div class="skills">
 
-<div class="skill">🌐 HTML</div>
+<div class="skill"><i class="fa-brands fa-html5"></i> HTML</div>
 
-<div class="skill">🎨 CSS</div>
+<div class="skill"><i class="fa-brands fa-css3-alt"></i> CSS</div>
 
-<div class="skill">⚡ JavaScript</div>
+<div class="skill"><i class="fa-brands fa-js"></i> JavaScript</div>
 
-<div class="skill">🐍 Python</div>
+<div class="skill"><i class="fa-brands fa-python"></i> Python</div>
 
-<div class="skill">💻 GitHub</div>
+<div class="skill"><i class="fa-brands fa-github"></i> GitHub</div>
 
-<div class="skill">📱 Responsive Design</div>
+<div class="skill"><i class="fa-solid fa-mobile-screen"></i> Responsive Design</div>
 
 </div>
 
