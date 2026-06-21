@@ -35,9 +35,12 @@
 
 <li><a href="#skills">Skills</a></li>
 
-<li><a href="#projects">Projects</a></li>
 
+<li><a href="#projects">Projects</a></li>
+<li><a href="#resume">Resume</a></li>
 <li><a href="#contact">Contact</a></li>
+
+
 
 </ul>
 
@@ -73,7 +76,29 @@ using HTML, CSS and JavaScript.
 </div>
 
 </section>
+</section>
 
+<section id="resume" class="hidden">
+
+<h2>Resume</h2>
+
+<div class="card">
+
+<h3>📄 My Resume</h3>
+
+<p>
+Download my latest resume to learn more about my education, skills and projects.
+</p>
+
+<a href="Sharvari_Resume_Corrected.docx" target="_blank">
+<button>Download Resume</button>
+</a>
+
+</div>
+
+</section>
+
+<section id="contact" class="hidden">
 <section id="about" class="hidden">
 
 <h2>About Me</h2>
