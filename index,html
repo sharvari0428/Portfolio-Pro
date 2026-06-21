@@ -175,6 +175,8 @@ I enjoy learning new technologies and creating useful websites that solve real-l
 
 <h2>Projects</h2>
 
+<div class="projects">
+
 <div class="project">
 
 <h3>🎓 Student Dashboard</h3>
@@ -221,6 +223,8 @@ Split expenses among friends quickly.
 <a href="https://github.com/sharvari0428/Expense-Split-Calculator" target="_blank">
     <button>GitHub Code</button>
 </a>
+
+</div>
 
 </div>
 
