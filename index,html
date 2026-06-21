@@ -150,23 +150,27 @@ I enjoy learning new technologies and creating useful websites that solve real-l
 
 <h2>Projects</h2>
 
-<div class="projects">
-
 <div class="project">
 
 <h3>🎓 Student Dashboard</h3>
 
 <p>
-
 Track attendance, assignments,
 exam countdown and CGPA.
-
 </p>
 
+<div class="badges">
+    <span class="badge">HTML</span>
+    <span class="badge">CSS</span>
+    <span class="badge">JavaScript</span>
+</div>
+
 <a href="https://sharvari0428.github.io/Student-Dashboard/" target="_blank">
+    <button>Live Demo</button>
+</a>
 
-<button>Live Demo</button>
-
+<a href="https://github.com/sharvari0428/Student-Dashboard" target="_blank">
+    <button>GitHub Code</button>
 </a>
 
 </div>
@@ -176,18 +180,22 @@ exam countdown and CGPA.
 <h3>💰 Expense Split Calculator</h3>
 
 <p>
-
 Split expenses among friends quickly.
-
 </p>
 
+<div class="badges">
+    <span class="badge">HTML</span>
+    <span class="badge">CSS</span>
+    <span class="badge">JavaScript</span>
+</div>
+
 <a href="https://sharvari0428.github.io/Expense-Split-Calculator/" target="_blank">
-
-<button>Live Demo</button>
-
+    <button>Live Demo</button>
 </a>
 
-</div>
+<a href="https://github.com/sharvari0428/Expense-Split-Calculator" target="_blank">
+    <button>GitHub Code</button>
+</a>
 
 </div>
 
