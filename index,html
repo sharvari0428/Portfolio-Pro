@@ -76,7 +76,7 @@ using HTML, CSS and JavaScript.
 </div>
 
 </section>
-</section>
+
 
 <section id="resume" class="hidden">
 
@@ -179,6 +179,8 @@ I enjoy learning new technologies and creating useful websites that solve real-l
 
 <div class="project">
 
+<img src="images/student-dashboard.png" alt="Student Dashboard">
+
 <h3>🎓 Student Dashboard</h3>
 
 <p>
@@ -203,6 +205,8 @@ exam countdown and CGPA.
 </div>
 
 <div class="project">
+
+<img src="images/expense-split.png" alt="Expense Split Calculator">
 
 <h3>💰 Expense Split Calculator</h3>
 
